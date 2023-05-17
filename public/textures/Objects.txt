@@ -1,0 +1,6 @@
+Los elementos concretos que la aplicación debe mostrar son: 
+1. Módulo de memoria RAM DDR5
+2. Módulo de memoria SSD M2 NVMe
+3. Microprocesador AMD Ryzen serie 7000 o Intel Core generación 13
+4. SoC Espressif ESP32-C6
+5. GPU NVIDIA RTX Series 4000
